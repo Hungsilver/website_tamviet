@@ -12,6 +12,15 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        space_grotesk: ["var(--font-Space_Grotesk)"],
+      },
+      backgroundColor: {
+        yellow_root: "#ffbf23",
+      },
+      screens: {
+        mobile: "500px",
+      },
     },
   },
   plugins: [],
