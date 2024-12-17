@@ -8,7 +8,7 @@ const HomePage = () => {
       <ContainerSection>
         <div className="flex">
           <div className="flex-1 flex items-center text-2xl">
-            <h2>Dev hết tiền chỉ làm được đến thế</h2>
+            <h2>Tâm BA lỏ</h2>
           </div>
           <div className="flex-1">
             <Image
