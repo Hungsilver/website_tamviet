@@ -9,7 +9,7 @@ export default function UserLayout({
   return (
     <>
       <Header />
-      {children};
+      {children}
       <Footer />
     </>
   );
