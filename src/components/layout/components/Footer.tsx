@@ -7,7 +7,12 @@ const Footer = () => {
     <footer className="bg-yellow_root px-5 py-10">
       <div className="max-w-[1200px] my-0 mx-auto flex flex-col gap-6">
         <div className="flex gap-1">
-          <Image src={"/logo/doraemon.png"} width={40} height={20} alt="logo" />
+          <Image
+            src={"/logo/logo-tamviet.png"}
+            width={40}
+            height={20}
+            alt="logo"
+          />
           <div className="">
             <p className="text-[1rem]">Tâm việt</p>
             <p className="text-xs">Vì 1 Việt Nam phát triển</p>
